@@ -141,6 +141,7 @@ class CybersecurityConsultant:
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albert3661&theme=tokyonight&hide_border=true&background=0D1117)
 
+
 </div>
 
 ---
@@ -157,6 +158,10 @@ class CybersecurityConsultant:
 | 🏗️ **Microsoft SC-100 (In Progress)** | 2025 | Cybersecurity Architecture |
 | 🌐 **Certified Network Engineer (CNE)** | 2024 | Network Security |
 | 🛡️ **Google Cybersecurity Professional** | 2023 | Security Operations |
+
+![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![CRTA](https://img.shields.io/badge/Certified-Red_Team_Analyst-darkred?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-SC--900-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
