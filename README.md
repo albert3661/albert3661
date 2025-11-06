@@ -183,7 +183,7 @@ class CybersecurityConsultant:
 [![PolyCipherDecryptor](https://github-readme-stats.vercel.app/api/pin/?username=albert3661&repo=PolyCipherDecryptor&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/albert3661/PolyCipherDecryptor)
 [![JS-endpoint-Extractor](https://github-readme-stats.vercel.app/api/pin/?username=albert3661&repo=JS-endpoint-Extractor&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/albert3661/JS-endpoint-Extractor)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=albert3661&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/albert3661/Portfolio)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=albert3661&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/albert3661/Zero-day-Sentinel)
+
 
 </div>
 
